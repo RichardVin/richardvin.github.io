@@ -3,7 +3,8 @@ title: ""
 layout: single
 permalink: /cv/
 author_profile: true
-
+layout: single
+classes: wide
 ---
 
 ## Expérience professionnelle
