@@ -3,7 +3,7 @@
 # =========================
 
 title: "Richard Vin"
-description: "Consultant Data1"
+description: "Consultant Data"
 url: "https://richardvin.github.io"
 baseurl: ""
 
@@ -28,7 +28,7 @@ search: true
 author:
   name     : "Richard Vin"
   avatar   : "/assets/images/RVI portrait.png"
-  bio      : "Consultant Data"
+  bio      : "Consultant Data1"
   location : "Paris, France"
 
   github   : "RichardVin"
