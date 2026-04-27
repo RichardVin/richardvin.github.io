@@ -22,17 +22,27 @@ locale: "fr-FR"
 search: true
 
 # =========================
-# Auteur (IMPORTANT)
+# Auteur (colonne gauche)
 # =========================
 
 author:
   name     : "Richard Vin"
   avatar   : "/assets/images/RVI portrait.png"
-  bio      : "Consultant Data1"
+  bio      : "Consultant Data"
   location : "Paris, France"
 
   github   : "RichardVin"
-  linkedin : "https://www.linkedin.com/in/richard-vin-a92018240/"
+  linkedin : "richard-vin-a92018240"
+
+# =========================
+# Footer (fiable)
+# =========================
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/RichardVin"
 
 # =========================
 # Pages
@@ -42,7 +52,7 @@ include:
   - _pages
 
 # =========================
-# Plugins (GitHub compatible)
+# Plugins
 # =========================
 
 plugins:
