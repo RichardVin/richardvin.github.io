@@ -3,6 +3,8 @@ title: ""
 layout: single
 permalink: /projets/
 author_profile: true
+layout: single
+classes: wide
 ---
 
 # 🚀 Mes projets
