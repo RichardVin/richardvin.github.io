@@ -5,9 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-# Richard Vin
-
-Consultant Data
+# Présentation
 
 ---
 
