@@ -1,5 +1,5 @@
 ---
-title: "Richard Vin"
+title: ""
 layout: single
 permalink: /
 author_profile: true
