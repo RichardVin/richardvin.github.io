@@ -22,7 +22,7 @@ locale: "fr-FR"
 search: true
 
 # =========================
-# Auteur (colonne gauche)
+# Auteur (IMPORTANT)
 # =========================
 
 author:
@@ -42,7 +42,7 @@ include:
   - _pages
 
 # =========================
-# Plugins (minimum utile)
+# Plugins (GitHub compatible)
 # =========================
 
 plugins:
