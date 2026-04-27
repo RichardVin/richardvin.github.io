@@ -1,6 +1,8 @@
 ---
-permalink: /about/
-title: "About"
+title: "Richard Vin"
+layout: single
+permalink: /
+author_profile: true
 ---
 
 # Richard Vin
