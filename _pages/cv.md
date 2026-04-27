@@ -71,9 +71,9 @@ Etudes opérationnelles et techniques :
 
 ## Formation
 
-### Master Actuariat - Université Paris-Est-Marne-la-Vallée
-**Septembre 2014 – Août 2016**
+- Master Actuariat - Université Paris-Est-Marne-la-Vallée
+  Septembre 2014 – Août 2016
 
-### Master Mathématiques - Université Paris-Est-Marne-la-Vallée
-**Septembre 2012 – Août 2014**
+- Master Mathématiques - Université Paris-Est-Marne-la-Vallée
+  Septembre 2012 – Août 2014
 
