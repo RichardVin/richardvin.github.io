@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-## 💼 Expérience professionnelle
+## Expérience professionnelle
 
 ### Consultant Data – Talan Consulting, Paris
 **Octobre 2023 – Aujourd’hui**
@@ -68,7 +68,7 @@ Etudes opérationnelles et techniques :
 
 ---
 
-## 🎓 Formation
+## Formation
 
 ### Master Actuariat - Université Paris-Est-Marne-la-Vallée
 **Septembre 2014 – Août 2016**
