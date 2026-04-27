@@ -7,7 +7,7 @@ author_profile: true
 
 # Richard Vin
 
-Consultant Data | Solutions data & cloud
+Consultant Data
 
 ---
 
