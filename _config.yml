@@ -28,7 +28,7 @@ search: true
 author:
   name     : "Richard Vin"
   avatar   : "/assets/images/RVI portrait.png"
-  bio      : "Consultant Data | Solutions data & cloud"
+  bio      : "Consultant Data"
   location : "Paris, France"
 
   github   : "RichardVin"
