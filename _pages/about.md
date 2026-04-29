@@ -9,29 +9,29 @@ classes: wide
 
 # Présentation
 
----
+Je conçois et développe des solutions data pour analyser des systèmes, structurer l’information et faciliter la prise de décision.
 
-Je conçois et mets en œuvre des solutions data de bout en bout pour répondre à des enjeux métiers variés : analyse, automatisation, reporting et data produit.
+Mon approche repose sur une compréhension concrète des données : comment elles sont produites, comment elles circulent, et comment les transformer en repères utiles. Je cherche à rendre les systèmes plus lisibles, à détecter les incohérences et à proposer des analyses directement exploitables.
 
----
+J’interviens sur des problématiques variées :
+- collecte de données (APIs, bases de données)
+- traitement et structuration (Python, SQL)
+- analyse et mise en évidence d’insights
+- création de dashboards et d’outils d’aide à la décision
+- automatisation de processus
 
-## ⚙️ Mes environnements d’intervention
+Je m’adapte à différents environnements en fonction des besoins.
 
-### 🔷 Environnement corporate (Microsoft / Azure)
-- Azure Data Factory / Microsoft Fabric  
-- Databricks / Synapse  
-- SQL / Power BI  
+Environnement corporate  
+Mise en place de solutions robustes dans des contextes structurés, avec des outils adaptés aux enjeux métiers et aux contraintes techniques.  
+Power BI, Alteryx, SQL, Azure (en cours)
 
----
+Environnement data moderne  
+Développement de solutions rapides et flexibles pour explorer et analyser des données.  
+Python (Pandas, APIs), Streamlit, automatisation
 
-### 🔷 Environnement data moderne (Python / APIs)
-- Python (Pandas, APIs)  
-- Streamlit  
-- Automatisation  
+Environnement open source  
+Mise en place de stacks indépendantes basées sur des technologies ouvertes.  
+Airflow, dbt, PostgreSQL, ClickHouse, Superset, Metabase
 
----
-
-### 🔷 Environnement souverain (open source)
-- Airflow / dbt  
-- PostgreSQL / ClickHouse  
-- Superset / Metabase  
+Une partie de ces travaux est présentée dans la section projets, avec des exemples concrets de réalisations.
