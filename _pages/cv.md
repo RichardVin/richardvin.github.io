@@ -15,7 +15,7 @@ Quality Assurance / Business Analyst sur applications métiers (retail/luxe) :
 • Structuration et pilotage de la recette : stratégie, campagne, rédaction des cahiers de recette, mise en place d’une méthodologie  
 • Exécution des tests et suivi de la qualité : réalisation des tests, suivi des anomalies jusqu’à leur résolution, coordination avec les équipes pour valider les correctifs  
     
-Business Analyst sur un projet de migration Power BI (groupe bancaire):  
+Business Analyst sur un projet de migration Power BI (groupe bancaire) :  
 • Intégration et transformation de données avec Alteryx  
 • Requêtage en base avec SQL developeur  
 • Création de rapports Power BI  
