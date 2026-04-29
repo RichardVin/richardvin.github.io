@@ -12,7 +12,7 @@ classes: wide
 Je conçois et développe des solutions pour analyser les données, structurer l’information et faciliter la prise de décision.
 Mon approche repose sur une compréhension concrète de leur fonctionnement : comment elles sont produites, comment elles circulent, et comment les transformer en repères utiles.
 
-J’interviens sur des problématiques variées :<br>
+J’interviens sur des problématiques variées :
 - collecte de données (APIs, bases de données)
 - traitement et structuration (Python, SQL)
 - analyse et mise en évidence d’insights
