@@ -71,6 +71,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-head_scripts:
-  - /assets/css/custom.css
