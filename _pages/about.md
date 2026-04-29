@@ -1,3 +1,13 @@
+<style>
+.page__content p + ul {
+  margin-top: 0;
+}
+
+.page__content p {
+  white-space: pre-line;
+}
+</style>
+
 ---
 title: ""
 layout: single
