@@ -15,4 +15,4 @@ Le projet vise à explorer les dynamiques de prix et à structurer les données 
 
 Stack : Python, Pandas, API, Streamlit
 
-Lien : https://dvf-analyse-immobiliere.streamlit.app/
+Voir le dashboard : [dvf-analyse-immobiliere.streamlit.app](https://dvf-analyse-immobiliere.streamlit.app/)
