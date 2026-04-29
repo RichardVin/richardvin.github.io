@@ -36,7 +36,7 @@ Développement d’outils de provisionnement sinistre pour un client.
 
 **Actuariat Business IARD**, Axa, Luxembourg · Avril 2017 - Mars 2019
 
-En charge du développement d’outils d’analyse et de reporting, et de la réalisation d’études transverses.
+En charge de développement d’outils d’analyse et de reporting, et de la réalisation d’études transverses.
 
 Développement :  
 • Mise en place d’un outil de géocodage avec R. Utilisation de la méthode de Levenshtein pour mapper les adresses  
