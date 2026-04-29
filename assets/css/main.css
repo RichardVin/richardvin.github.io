@@ -1,6 +1,7 @@
 ---
 ---
 
+@import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
 
 /* TEST */
@@ -15,4 +16,9 @@ body {
 
 .page__content p {
   white-space: pre-line;
+}
+
+/* TEST */
+body {
+  border: 5px solid red;
 }
