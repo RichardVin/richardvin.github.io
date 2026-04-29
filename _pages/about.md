@@ -13,11 +13,11 @@ Je conçois et développe des solutions pour analyser les données, structurer l
 Mon approche repose sur une compréhension concrète de leur fonctionnement : comment elles sont produites, comment elles circulent, et comment les transformer en repères utiles.
 
 J’interviens sur des problématiques variées :  
-— collecte de données (APIs, bases de données)  
-— traitement et structuration (Python, SQL)  
-— analyse et mise en évidence d’insights  
-— création de dashboards et d’outils d’aide à la décision  
-— automatisation de processus
+• collecte de données (APIs, bases de données)  
+• traitement et structuration (Python, SQL)  
+• analyse et mise en évidence d’insights  
+• création de dashboards et d’outils d’aide à la décision  
+• automatisation de processus
 
 Je m’adapte à différents environnements en fonction des besoins.
 
