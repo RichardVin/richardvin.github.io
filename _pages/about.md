@@ -1,3 +1,11 @@
+---
+title: ""
+layout: single
+permalink: /
+author_profile: true
+layout: single
+classes: wide
+---
 <style>
 .page__content p + ul {
   margin-top: 0;
@@ -7,15 +15,6 @@
   white-space: pre-line;
 }
 </style>
-
----
-title: ""
-layout: single
-permalink: /
-author_profile: true
-layout: single
-classes: wide
----
 
 # Présentation
 
